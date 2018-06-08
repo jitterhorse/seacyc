@@ -1,0 +1,6 @@
+ofxGui
+ofxOpenCv
+ofxThreadedImageLoader
+ofxIpVideoGrabber
+ofxPoco
+ofxYolo2
